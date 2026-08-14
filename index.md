@@ -107,7 +107,7 @@ The technical modernization of this ePortfolio concludes with Category Three: Da
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/IceQueen86/ePortfolio/blob/main/Narratives/Database_Narrative.pdf)
 
   - [Original Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Original) (View the directory containing the original .cpp, and project files.)
-  - [Enhanced Build Files]((https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Enhancment)) (View the directory containing the final .cpp and project files.)
+  - [Enhanced Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Enhancment) (View the directory containing the final .cpp and project files.)
 
 ### Conclusion:
 
