@@ -50,8 +50,7 @@ My code review video contains a detailed walkthrough of my single central artifa
   - Code Analysis: Target areas of improvement including procedural layout structure, lack of input argument validation, unoptimized native sorting constructs, and hardcoded credentials.
   - Enhancements: A walkthrough of my completed modifications including modular OOP separation of concerns, a custom recursive QuickSort algorithm module, and server-side JSON schema validations.
 
-<iframe align="center" width="900" height="480" src="[https://www.youtube.com/embed/Blk_gB-TfTo?si=QWKd_WiVbFxKIn3d](https://youtu.be/arPRNa3fnyQ)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<video src="[https://github.com](https://youtu.be/arPRNa3fnyQ)" controls="controls" muted="muted" style="max-width: 100%;"></video>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
