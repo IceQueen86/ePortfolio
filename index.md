@@ -26,3 +26,32 @@ The technical artifacts curated within this ePortfolio seamlessly fit together t
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## **Course Outcomes**
+### Throughout my ePortfolio within my artifacts and additionally each narrative I showcase a portion of my skills and knowledge including the following outcomes:
+
+  - I Facilitate collaboration by transforming complex technical data streams into clean, interactive visual dashboards that allow diverse stakeholder groups to execute informed, strategic organizational decisions.
+  - I Author professional communications by delivering coherent, technically sound engineering narratives and structured code walkthroughs that adapt complex architectural concepts seamlessly to both developers and evaluators.
+  - I Optimize algorithmic solutions by engineering custom recursive sorting routines and data collections in memory, deliberately analyzing execution paths to manage critical design trade-offs and maximize computational speed.
+  - I Deploy modern tech tools by refactoring legacy scripts into decoupled, modular Object-Oriented architectures inside standalone virtual environments to deliver scalable, industry-standard computer solutions.
+  - I Practice defensive engineering by integrating strict server-side schema validations and isolating configuration variables to anticipate potential vulnerabilities, eliminate design flaws, and protect database resource privacy.
+
+For a complete summary on how I achieved these outcomes [(Click Here)](https://github.com/IceQueen86/ePortfolio/blob/main/Narratives/Meeting_Course_Outcomes.docx)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **Informal Code Review**
+### Overview:
+
+<p style="text-indent: 55px;">
+My code review video contains a detailed walkthrough of my single central artifact from CS 340. I analyze the codebase for errors, vulnerabilities, and structural weaknesses, narrating my exact plans for optimizations and enhancements across three distinct computing domains. I showcase my original code directly inside Visual Studio Code using Python to explain my software upgrades. In software design and engineering, I address the refactoring of my procedural script into an object-oriented paradigm. In algorithms and data structures, I walk through my custom memory sorting implementation, and in databases, I explain my backend data governance logic. Throughout the video presentation, I employ professional-quality oral and visual communication techniques to deliver a technically sound walkthrough appropriately adapted to my audience. The basis of my code review focuses on three critical elements:
+</p>
+
+  - Existing functionality: A detailed walkthrough of the current dashboard script focused on the features, callbacks, and visualization functions of the original application.
+  - Code Analysis: Target areas of improvement including procedural layout structure, lack of input argument validation, unoptimized native sorting constructs, and hardcoded credentials.
+  - Enhancements: A walkthrough of my completed modifications including modular OOP separation of concerns, a custom recursive QuickSort algorithm module, and server-side JSON schema validations.
+
+<iframe align="center" width="900" height="480" src="[https://www.youtube.com/embed/Blk_gB-TfTo?si=QWKd_WiVbFxKIn3d](https://youtu.be/arPRNa3fnyQ)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
