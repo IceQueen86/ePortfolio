@@ -65,7 +65,7 @@ The technical progression of this ePortfolio begins with Category One: Software 
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/IceQueen86/ePortfolio/blob/main/Narratives/Software%20Design%20and%20Engineering%20Narrative.pdf)
 
   - [Original Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Software%20Design%20and%20Engineering/Artifact%20One%20Original) (View the directory containing the original .cpp, and project files.)
-  - [Original Build Code](./CS-499 Software Engineering and Design/) (View the original C++ code directly here.)
+  - [Original Build Code](./CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Original.md) (View the original C++ code directly here.)
   - [Enhanced Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Software%20Design%20and%20Engineering/Artifact%20One%20Enhancement) (View the directory containing the final .cpp and project files.)
 
 ### Conclusion:
