@@ -67,6 +67,13 @@ The technical progression of this ePortfolio begins with Category One: Software 
   - [Original Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Software%20Design%20and%20Engineering/Artifact%20One%20Original) (View the directory containing the original .cpp, and project files.)
   - [Enhanced Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Software%20Design%20and%20Engineering/Artifact%20One%20Enhancement) (View the directory containing the final .cpp and project files.)
 
+<div style="text-align: center;">
+    <a href="https://github.com/IceQueen86/ePortfolio/blob/main/images/Figure_One.png" target="_blank">
+		<img src="assets/img/Pyramid Screenshot Artifact 1.png" width="720px" title="OpenGL 3-D Pyramid Screenshot" />
+	</a>
+    <p><em>Figure 1 - OpenGL 3-D Pyramid - CS-330 Computer Graphics and Visualization</em></p>
+</div>
+
 ### Conclusion:
 
 <p style="text-indent: 55px;">
