@@ -95,6 +95,13 @@ The technical exploration of this ePortfolio continues with Category Two: Algori
   - [Original Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Original) (View the directory containing the original .cpp, and project files.)
   - [Enhanced Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Enhancement) (View the directory containing the final .cpp and project files.)
 
+<div style="text-align: center;">
+    <a href="https://github.com/IceQueen86/ePortfolio/blob/main/images/Figure_Two.png" target="_blank">
+		<img src="images/Figure_Two.png" width="720px" title="Artifact Two" />
+	</a>
+    <p><em>Figure 2: In-Memory QuickSort Array Sorting Execution ViewThis visual demonstrates the active interception of the dashboard's native framework sorting mechanisms. When a user clicks a table column header, row elements are captured as a raw sequential list of key-value dictionary data structures and routed through a custom, recursive QuickSort algorithm module. The organized grid table and updated graph view viewport provide immediate visual validation of a highly optimized, divide-and-conquer processing loop running at an average time complexity of \(O(n \log n)\).</em></p>
+</div>
+
 ### Conclusion:
 
 <p style="text-indent: 55px;">
@@ -115,6 +122,14 @@ The technical modernization of this ePortfolio concludes with Category Three: Da
 
   - [Original Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Original) (View the directory containing the original .cpp, and project files.)
   - [Enhanced Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Enhancment) (View the directory containing the final .cpp and project files.)
+
+<div style="text-align: center;">
+    <a href="https://github.com/IceQueen86/ePortfolio/blob/main/images/Figure_Three.png" target="_blank">
+		<img src="images/Figure_Three.png" width="720px" title="Artifact Two" />
+	</a>
+    <p><em>Figure 3: Runtime Verification of Database Query Tuning ParametersThis log print console output verifies the active deployment of the system's Category Three backend persistence configurations. The initialization check confirms the integration of an architectural compound optimization key index mapping layer. This setup simulates a physical server-side composite index lookup, proving that query execution paths are actively transformed from resource-heavy linear scans down to optimized logarithmic \(O(\log n)\) transaction steps.</em></p>
+</div>
+
 
 ### Conclusion:
 
