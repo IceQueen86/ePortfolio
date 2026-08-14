@@ -69,9 +69,9 @@ The technical progression of this ePortfolio begins with Category One: Software 
 
 <div style="text-align: center;">
     <a href="https://github.com/IceQueen86/ePortfolio/blob/main/images/Figure_One.png" target="_blank">
-		<img src="assets/img/Pyramid Screenshot Artifact 1.png" width="720px" title="OpenGL 3-D Pyramid Screenshot" />
+		<img src="images/Figure_One.png" width="720px" title="Artifact One" />
 	</a>
-    <p><em>Figure 1 - OpenGL 3-D Pyramid - CS-330 Computer Graphics and Visualization</em></p>
+    <p><em>Figure 1: Architectural Modularity and Configuration DecouplingThis screenshot illustrates the complete refactoring of the application from a loose, procedural script into a highly decoupled, module-driven Object-Oriented Architecture. By encapsulating backend logic into AnimalShelter.py and front-end layouts into dashboard.py, the system achieves total separation of concerns. Additionally, the presence of the localized .env configuration file demonstrates the elimination of hardcoded plain-text string constants, securing sensitive authentication parameters away from the public codebase.</em></p>
 </div>
 
 ### Conclusion:
