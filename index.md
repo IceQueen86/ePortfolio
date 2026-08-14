@@ -35,7 +35,7 @@ The technical artifacts curated within this ePortfolio seamlessly fit together t
   - I Deploy modern tech tools by refactoring legacy scripts into decoupled, modular Object-Oriented architectures inside standalone virtual environments to deliver scalable, industry-standard computer solutions.
   - I Practice defensive engineering by integrating strict server-side schema validations and isolating configuration variables to anticipate potential vulnerabilities, eliminate design flaws, and protect database resource privacy.
 
-For a complete summary on how I achieved these outcomes [(Click Here)](https://github.com/IceQueen86/ePortfolio/blob/main/Narratives/Meeting_Course_Outcomes.docx)
+For a complete summary on how I achieved these outcomes [(Click Here)](https://github.com/IceQueen86/ePortfolio/blob/main/Narratives/Meeting_Course_Outcomes.pdf)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
