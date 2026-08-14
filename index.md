@@ -54,3 +54,21 @@ To watch the full Code Review Video [(Click Here)](https://youtu.be/arPRNa3fnyQ)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+## **Artifact 1 Software Engineering and Design**
+### Introduction:
+
+<p style="text-indent: 55px;">
+The technical progression of this ePortfolio begins with Category One: Software Design and Engineering, which focuses on establishing structural modularity, clear separation of concerns, and clean architectural patterns. The baseline artifact chosen for this enhancement is a full-stack client-server data visualization dashboard originally engineered during the CS 340 Client-Server Development course. In its legacy iteration, the application functioned as an interactive tool for filtering specialized animal rescue populations, utilizing browser-dependent notebook environments to render data maps and breed charts. However, an administrative code review against professional engineering standards exposed critical vulnerabilities, including tight coupling between frontend user interface definitions and backend database extraction logic, a complete reliance on un-portable notebook proxies, and severe security flaws due to hardcoded credential strings. Guided by a professional background in the aerospace industry that prioritizes rigorous configuration control, the objective of this enhancement is to overhaul the script's core architecture, transitioning it into a decoupled, secure, and production-grade standalone application. 
+</p>
+
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/IceQueen86/ePortfolio/blob/main/Narratives/Software%20Design%20and%20Engineering%20Narrative.pdf)
+
+  - [Original Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Software%20Design%20and%20Engineering/Artifact%20One%20Original) (View the directory containing the original .cpp, and project files.)
+  - [Final Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Software%20Design%20and%20Engineering/Artifact%20One%20Enhancement) (View the directory containing the final .cpp and project files.)
+
+### Conclusion:
+
+<p style="text-indent: 55px;">
+In summary, the successful modernization of this first artifact demonstrates a comprehensive mastery of advanced software design frameworks and secure coding practices. By systematically refactoring the loose, procedural legacy script into a strict Object-Oriented Programming (OOP) paradigm driven by the Repository design pattern, the user interface code is completely decoupled from backend data operations. The integration of the python-dotenv package successfully resolves the hardcoded credential vulnerability, isolating sensitive system access variables into a localized .env configuration shell to prevent open-source data exposure. Furthermore, replacing notebook-dependent wrappers with native application execution structures guarantees absolute system portability across standalone local environments. By embedding strict runtime data-validation traps to intercept empty data payloads gracefully, this completed enhancement illustrates a mature commitment to software quality assurance, delivering a highly reusable, resilient, and enterprise-ready full-stack desktop application.
+</p>
