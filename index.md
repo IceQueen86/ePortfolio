@@ -65,10 +65,53 @@ The technical progression of this ePortfolio begins with Category One: Software 
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/IceQueen86/ePortfolio/blob/main/Narratives/Software%20Design%20and%20Engineering%20Narrative.pdf)
 
   - [Original Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Software%20Design%20and%20Engineering/Artifact%20One%20Original) (View the directory containing the original .cpp, and project files.)
-  - [Final Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Software%20Design%20and%20Engineering/Artifact%20One%20Enhancement) (View the directory containing the final .cpp and project files.)
+  - [Original Build Code](./CS-499 Software Engineering and Design/Artifact One Original) (View the original C++ code directly here.)
+  - [Enhanced Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Software%20Design%20and%20Engineering/Artifact%20One%20Enhancement) (View the directory containing the final .cpp and project files.)
 
 ### Conclusion:
 
 <p style="text-indent: 55px;">
 In summary, the successful modernization of this first artifact demonstrates a comprehensive mastery of advanced software design frameworks and secure coding practices. By systematically refactoring the loose, procedural legacy script into a strict Object-Oriented Programming (OOP) paradigm driven by the Repository design pattern, the user interface code is completely decoupled from backend data operations. The integration of the python-dotenv package successfully resolves the hardcoded credential vulnerability, isolating sensitive system access variables into a localized .env configuration shell to prevent open-source data exposure. Furthermore, replacing notebook-dependent wrappers with native application execution structures guarantees absolute system portability across standalone local environments. By embedding strict runtime data-validation traps to intercept empty data payloads gracefully, this completed enhancement illustrates a mature commitment to software quality assurance, delivering a highly reusable, resilient, and enterprise-ready full-stack desktop application.
+</p>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+## **Artifact 2 Algorithms and Data Structures**
+### Introduction:
+
+<p style="text-indent: 55px;">
+The technical exploration of this ePortfolio continues with Category Two: Algorithms and Data Structures, which focuses on establishing low-level computational efficiency, advanced memory management, and precise logic control. The engineering baseline for this phase centers on the active data processing layer of the client-server dashboard. In its original configuration, the application applied sequential boolean index filters inside its callback controllers to handle data transformations, while delegating all table re-ordering computations directly to the client browser's generic, black-box processing engine. A critical checklist analysis revealed that this unmanaged data lifecycle path forced slow, linear scans over the entire memory dataset, creating an unsustainable performance bottleneck as data volumes scaled. To showcase a rigorous approach to computer science practices, the objective of this enhancement is to bypass generic, pre-built framework scripts and engineer a custom, memory-isolated processing layer capable of handling intensive data streams with highly predictable scaling behavior.
+</p>
+
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/IceQueen86/ePortfolio/blob/main/Narratives/Algorithms%20and%20Data%20Structures%20Narrative.pdf)
+
+  - [Original Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Original) (View the directory containing the original .cpp, and project files.)
+  - [Enhanced Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Enhancement) (View the directory containing the final .cpp and project files.)
+
+### Conclusion:
+
+<p style="text-indent: 55px;">
+In summary, the completion of this second technical upgrade demonstrates an advanced capability to design, implement, and evaluate low-level computational logic. By refactoring the data processing loop to translate multi-type dataframes into plain, sequential Python lists of key-value dictionaries, the application gains total control over its internal state. The successful injection of a manually coded, recursive QuickSort algorithm module replaces slow linear operations with an optimized divide-and-conquer processing strategy that bounds data transformations to a highly efficient average time complexity of \(O(n \log n)\). Additionally, embedding defensive programming safeguards—such as explicit element validity checks and structured attribute fallbacks—ensures the memory pipeline handles unexpected inputs gracefully. This complete algorithmic overhaul provides a sophisticated, scalable solution that successfully manages the system-level design trade-off between database server computing overhead and presentation layer responsiveness.
+</p>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+## **Artifact 3 Databases**
+### Introduction:
+
+<p style="text-indent: 55px;">
+The technical modernization of this ePortfolio concludes with Category Three: Databases, which centers on establishing rigorous server-side data governance, query performance tuning, and robust privacy controls. The structural foundation for this upgrade is the application's backend persistence layer, driven by the AnimalShelter data access module. In its original state, the backend connected to a flat MongoDB collection that operated entirely without indexing constraints or structural data-type boundaries. An architectural code analysis exposed severe design flaws, noting that the database blindly accepted any incoming payload submitted by the client application. This omission left the system highly vulnerable to database collection corruption, missing mandatory fields, and adversarial script injection exploits, while forcing resource-heavy sequential scans across the storage disk. Shifting from a reactive posture to a proactive security mindset, the objective of this enhancement is to implement strict root-level structural validation rules and optimized data access paths.
+</p>
+
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/IceQueen86/ePortfolio/blob/main/Narratives/Database_Narrative.pdf)
+
+  - [Original Build Files](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Original) (View the directory containing the original .cpp, and project files.)
+  - [Enhanced Build Files]([https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Enhancement](https://github.com/IceQueen86/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Enhancment)) (View the directory containing the final .cpp and project files.)
+
+### Conclusion:
+
+<p style="text-indent: 55px;">
+In conclusion, the successful engineering of this third and final artifact demonstrates complete technical mastery of database administration and secure full-stack data governance. By implementing a comprehensive, server-side JSON/BSON Schema Validation routine directly within the data access class, the database engine is transformed into an automated gatekeeper that rigorously tests all input arguments for structural validity, type matching, and completeness before executing write mutations. This defensive programming layer effectively immunizes the backend against unauthorized data entries and injection vulnerabilities. Furthermore, deploying optimized compound index keys on the server moves query execution paths from a slow, linear sweep down to a lightning-fast logarithmic \(O(\log n)\) transaction boundary. By blending the extreme precision metrics of the aerospace sector with robust database tuning, this final phase completes a production-grade application architecture fully optimized for long-term reliability and data resource privacy.
 </p>
